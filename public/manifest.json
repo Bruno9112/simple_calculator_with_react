@@ -1,0 +1,9 @@
+{
+  "short_name": "Simple calculator",
+  "name": "Simple calculator made using react",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
